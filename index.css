@@ -1,5 +1,3 @@
-<--! este fichero css va a servir paracambiar de color el texto de h1 de dentro del
-archivo index.html -->
 h1 {
-    color: red;
+    color: blue;
 }
